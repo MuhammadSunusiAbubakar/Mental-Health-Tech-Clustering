@@ -1,3 +1,8 @@
+**Course:** Unsupervised Machine Learning (DLBDSMLUSL01)
+**Author:** Muhammad Sunusi Abubakar
+**Institution:** International University of Applied Sciences IU Hochschule
+**Date:** November 2026
+
 # Mental Health in Technology-related Jobs: Unsupervised Learning
 
 ## Project Overview
